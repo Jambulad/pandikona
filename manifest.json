@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Pandikona's",
+    "short_name": "Pandikona",
+    "scope": "/pandikona/index.html",
+    "display": "browser",
+    "start_url": "https://s3-ap-southeast-2.amazonaws.com/pandikona/index.html",
+    "background_color": "transparent",
+    "theme_color": "transparent",
+    "description": "The Pandikona is a medium to large size dog that can come in many different colors although the most popular is fawn or light brown. Pandikona are known to be brave and fearless hunters can are said to be territorial. They are loyal to their owner and are said to be great around children.",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://s3-ap-southeast-2.amazonaws.com/pandikona/index.html",
+    "screenshots": []
+}
